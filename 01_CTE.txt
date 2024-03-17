@@ -1,0 +1,40 @@
+1. mendapatkan detail dari daftar user, output yang diharapkan sebagai berikut:
+----+----------+--------------------+------------+-------+----------
+ id |   name   |       email        | subscribes | likes | comments
+----+----------+--------------------+------------+-------+----------
+  1 | bagus    | bagus@gmail.com    |          1 |     7 |        9
+  2 | dewangga | dewangga@gmail.com |          2 |    11 |        8
+  3 | rama     | rama@gmail.com     |          2 |     7 |        7
+  4 | balya    | balya@gmail.com    |          2 |     9 |        6
+  5 | faiq     | faiq@gmail.com     |          1 |     4 |        9
+  6 | regis    | regis@gmail.com    |          1 |     7 |        6
+
+
+2. mendapatkan detail dari daftar channel, output yang diharapkan sebagai berikut:
+----+-----------------+-------------------------+----------+-------------+--------
+ id |      name       |       description       |  owner   | subscribers | videos
+----+-----------------+-------------------------+----------+-------------+--------
+  1 | Bagus Moto Vlog | Ayo riding bareng gweh! | bagus    |           2 |      5
+  2 | Dewangga Gaming | By one headshot         | dewangga |           4 |      5
+  3 | Rama            | Channel paling biasa    | rama     |           3 |      5
+
+
+3. mendapatkan detail dari daftar video, output yang diharapkan sebagai berikut:
+----+------------------------------------------+-------------+-------+----------
+ id |                  title                   | description | likes | comments
+----+------------------------------------------+-------------+-------+----------
+  1 | senggolan bareng angkot                  |             |     4 |        4
+  2 | sunmori bareng ke bali                   |             |     3 |        3
+  3 | nabrak atap rumah                        |             |     1 |        2
+  4 | disalip truk sedot wc                    |             |     4 |        3
+  5 | Unboxing scoopy                          |             |     4 |        4
+  6 | Road to radiant #1 - Valorant            |             |     3 |        2
+  7 | Mabar epep                               |             |     2 |        1
+  8 | bocil kematian                           |             |     2 |        3
+  9 | by one alok menang give diamond          |             |     3 |        3
+ 10 | gift alok                                |             |     1 |        3
+ 11 | 3 Jam Ga Ngapa-ngapain                   |             |     4 |        3
+ 12 | tutorial memotong kuku pakai tangan kiri |             |     4 |        3
+ 13 | ojol game                                |             |     4 |        4
+ 14 | tutorial bernafas                        |             |     4 |        4
+ 15 | cara restart komputer                    |             |     2 |        3
